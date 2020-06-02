@@ -1,2 +1,2 @@
 # Python
-Python爬虫学习
+Python学习
